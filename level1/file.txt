@@ -1,0 +1,1 @@
+This is the example text file in the 1st level of our project
